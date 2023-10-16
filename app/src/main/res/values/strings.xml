@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ImcApp</string>
+
+    <string name="text_usuario">Usuário:</string>
+
+    <string name="texto_senha">Senha:</string>
+
+    <string name="placeholder_usuario">Entre com o seu usuário.</string>
+
+    <string name="placeholder_senha">Entre com a sua senha.</string>
+
+    <string name="button_texto_login">Login</string>
+
+    <string name="usuario">Usuario</string>
+
+    <string name="entre_com_o_seu_usu_rio">Entre com o seu usuário.</string>
+
+    <string name="senha">Senha</string>
+
+    <string name="entre_com_a_sua_senha">Entre com a sua senha.</string>
+
+    <string name="login">Login</string>
+
+    <string name="txt_iniciar">Iniciar</string>
+
+    <string name="btn_iniciar">Iniciar</string>
+
+    <string name="txt_peso_kg">Peso (Kg)</string>
+
+    <string name="edt_entre_com_o_seu_peso">Entre com o seu peso</string>
+
+    <string name="txt_altura_m">Altura(m)</string>
+
+    <string name="edt_entre_com_a_sua_altura">Entre com a sua altura</string>
+
+    <string name="btn_calcular_imc">Calcular IMC</string>
+
+    <string name="ol_nome_e_sobrenome_bem_vindo"><![CDATA[Olá, <nome e sobrenome> Bem-vindo !!]]></string>
+    <string name="txt_resultados_finais">Resultados Finais:</string>
+    <string name="txt_imagem_tabela_imc">Tabela IMC</string>
+    <string name="txt_resultado_do_imc">Resultado do IMC:</string>
+    <string name="txt_recomendacao">Recomendação:</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="txt_btn_voltar">Voltar</string>
+
+    <string name="texto_splash_screen">SplashScreen</string>
+    <string name="texto_logotipo_cps">Logotipo Centro Paula Souza</string>
+    <string name="texto_logotipo_fatec_jahu">Logotipo Fatec Jahu</string>
+    <string name="melissa_toledo">Melissa Toledo</string>
+    <string name="_2023">2023</string>
+
+</resources>
